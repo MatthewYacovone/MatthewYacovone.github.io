@@ -17,12 +17,12 @@
 - Demonstrates leadership and organizational skills by efficiently managing team assignments and providing exemplary customer service
 - Enhances guest satisfaction through effective multitasking and problem-resolution
   
-**Project Manager/Guidance, Navigation, and Control Engineer & Pufferfish Aerospace Senior Design Team  (_April 2023 - May 2024)**
+**Project Manager/Guidance, Navigation, and Control Engineer & Pufferfish Aerospace Senior Design Team  (_April 2023 - May 2024_)**
 - Spearheaded the development of a novel GNC architecture for a soft robotic spacesuit glove, focusing on system integration, performance optimization, and advanced algorithm implementation
 - Employed MATLAB and Python to develop and validate control systems, optimizing software solutions to enhance system functionality
 - Led project management efforts, including scope definition, scheduling, and stakeholder communication, ensuring timely and successful project delivery
 
-**Undergraduate Research Assistant & NC State Mechanical & Aerospace Engineering Department (_August 2023 - May 2024)**
+**Undergraduate Research Assistant & NC State Mechanical & Aerospace Engineering Department (_August 2023 - May 2024_)**
 - Developed and applied machine learning models for robotics, utilizing Python libraries such as Scikit-learn and PyTorch
 - Conducted research on model predictive path integral control to address complex optimal control problems for autonomous vehicles
 
