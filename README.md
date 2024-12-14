@@ -1,8 +1,8 @@
 # Aspring AI/ML Engineer
 
-### Data Analysis & Visualization: Pandas, NumPy, Microsoft Excel
-### Programming Languages: Python, MATLAB
-### Software & Tools: Scikit-learn, PyTorch, ANSYS, SOLIDWORKS, Git, OpenVSP, XFOIL
+#### Data Analysis & Visualization: Pandas, NumPy, Microsoft Excel
+#### Programming Languages: Python, MATLAB
+#### Software & Tools: Scikit-learn, PyTorch, ANSYS, SOLIDWORKS, Git, OpenVSP, XFOIL
 
 ## Education
 - M.Egr., Engineering concentration in Computer Science, GPA 4.0/4.0	| North Carolina State Univeristy (_August 2024 - Present_)	 			     
